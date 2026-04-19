@@ -1,8 +1,7 @@
 Author: Jackie Zhang
 Course: ACC102 Artificial Intelligence-Driven Data Analytics
 Track: Track 4 - Interactive Data Analysis Tool
-Product Link: [粘贴你的 Streamlit 部署链接，例如 https://xxx.streamlit.app]
-
+Product Link: https://jackie-qsr-analytics.streamlit.app/
 1. Product Overview
 
 This interactive dashboard is designed for financial analysts to evaluate the performance of leading Quick Service Restaurants (QSRs): McDonald's, Yum! Brands, Starbucks, and Shake Shack.
